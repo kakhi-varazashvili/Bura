@@ -1,0 +1,6 @@
+let player1 = document.querySelector(".player1")
+let player2 = document.querySelector(".player2")
+let result1 = document.querySelector(".result1")
+let result2 = document.querySelector(".result2")
+let btn1 = document.querySelector(".btn2")
+let btn2 = document.querySelector(".btn2")
